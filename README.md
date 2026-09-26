@@ -9,7 +9,7 @@ WST21-PM-2026-SF
 Isaiah Cedric Delgado
 
 ## Course & Year
-BS Information Technology / 1st Year
+BS Information Technology / 2nd Year
 
 ## Database Used
 MySQL
