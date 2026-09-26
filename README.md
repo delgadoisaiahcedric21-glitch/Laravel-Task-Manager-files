@@ -1,5 +1,4 @@
-# Laravel-Task-Manager-files
-  #Personal Task Manager
+# Personal Task Manager
 
 A simple Laravel CRUD project for managing personal tasks.
 
@@ -10,7 +9,7 @@ WST21-PM-2026-SF
 Isaiah Cedric Delgado
 
 ## Course & Year
-BS Information Technology /  2nd year 
+BS Information Technology / 1st Year
 
 ## Database Used
 MySQL
